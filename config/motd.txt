@@ -1,0 +1,15 @@
+<!-- Most valid html will work in here, excluding images. -->
+
+<h1>Welcome to Fallout New Bingus</h1>
+
+<b>A Fallout 13 server with all the cringe ERP removed? Quite based, in honesty.</b>
+
+<i>
+Code was adapated from the degeneracy that is Bad Deathclaw. Code was edited by Bingusman and will shortly have a github release with the edited code so you, too, can avoid the cringe that is ERP.
+
+Github: coming soon
+
+More work to be done and will probably be fucking with the server a lot to get it to a point that I never have to look at the word "deathclaw vagina" in the code again.
+</i>
+
+<b> WE UP BOYS anyway so long story short we've got a discord idk why lol: https://discord.gg/SYTYsFX </b>
